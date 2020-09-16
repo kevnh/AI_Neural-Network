@@ -11,7 +11,7 @@ epochs = 1\
 random = False	(Determines whether to read weights from file "weights.txt" or randomly initialize weights)\
 test = False	(Simply runs the inputs in the neural net without any of the training steps and ignores many irrevelvant parameters)\
 shuffle = False	(Determines whether to shuffle the inputs or read the inputs in order from the input file\
-decay = 1\
+decay = 1
 
 Constants:\
 THRESHOLD = 0.5
