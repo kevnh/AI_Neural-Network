@@ -1,4 +1,5 @@
 # AI_Neural-Network
+Used https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/ as reference.\
 Color recognition neural network made for Artificial Intelligence course.
 
 Typing:\
