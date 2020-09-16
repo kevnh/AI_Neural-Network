@@ -5,7 +5,7 @@ Typing:\
 python neural_net.py -h\
 will give a list of additional flags.
 
-Defaults are:
+Defaults are:\
 alpha = 0.1\
 epochs = 1\
 random = False	(Determines whether to read weights from file "weights.txt" or randomly initialize weights)\
